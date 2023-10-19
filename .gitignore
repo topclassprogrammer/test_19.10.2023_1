@@ -1,2 +1,5 @@
-4/.gitkeep
-3/
+/*
+!.gitignore
+!4/
+/4/*
+!4/.gitkeep
